@@ -16,8 +16,7 @@ Here, applied the different classification and find out the prediction about the
 
 **Support vector machine (SVM)** accuracy score of y_pred is **0.93**.
 
-Base on the different classification mostly accuracy score is above .90 it's good contrast to LogisticRegression.
-
+Base on the different classification mostly accuracy score is above .90 is Basically good accuracy score.
 ##
 ## **However, there are some pros and cons of classification.**
 
