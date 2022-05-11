@@ -1,4 +1,6 @@
-# Here,applied the different classification and find out the prediction about the person will buy a suv car or not based on the given DATASET(Social_Network_Ads).
+# Classification
+
+Here,applied the different classification and find out the prediction about the person will buy a suv car or not based on the given DATASET(Social_Network_Ads).
 
 **Decision Tree Classifier** accuracy score of y_pred is **0.91**.
 
