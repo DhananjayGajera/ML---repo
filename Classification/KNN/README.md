@@ -5,3 +5,5 @@
 in this file K-Nearest Neighbour to find out the prediction about the person will buy a suv car or not baesd on the given DATASET(Social_Network_Ads).
 
 Here, accuracy score of y_pred is **0.93**.
+
+Here, one file is explain how to find the k value it's **k_value_in_knn.ipynb**.
